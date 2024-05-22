@@ -12,10 +12,10 @@ This Task Manager App where you can easily organize your tasks with our intuitiv
 - Git: Installed and configured on your system.
 * Installation Steps
 - Clone the Repository:
-git clone https://github.com/your-username/task_manager_app.git
-cd task_manager_app
+`git clone https://github.com/your-username/task_manager_app.git`
+`cd task_manager_app`
 - Install Dependencies:
-flutter pub get
+`flutter pub get`
 - Run the App:
 `flutter run`
 
