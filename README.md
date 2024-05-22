@@ -71,6 +71,9 @@ Data Storage
 - Data Networking: Dio package
 - Local Storage: SQLlite
 
+## design decisions
+
+- I chose the blue color that is appropriate for this type of application, in addition to onboarding screens and splash screens to give the application greater aesthetics and realism.
 
 ## Challenges Faced
 
