@@ -17,7 +17,7 @@ cd task_manager_app
 - Install Dependencies:
 flutter pub get
 - Run the App:
-flutter run
+`flutter run`
 
 Star ⭐ the repo to support the project.
 
