@@ -27,4 +27,14 @@ class TaskEntity extends Equatable {
 
   @override
   List<Object?> get props => [taskId,todo,isCompleted, userId];
+
+  Map<String, dynamic> toJson() {
+    return {
+      'id': taskId,
+      'todo': todo,
+      'completed': isCompleted,
+      'userId': userId,
+    };
+  }
+
 }

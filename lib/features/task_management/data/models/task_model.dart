@@ -27,10 +27,10 @@ class TasksInfoModel extends TasksInfoEntity {
 
   Map<String, dynamic> toJson() {
     return {
+      'todos': todos!.map((task) => task.toJson()).toList(),
       'total': total,
       'skip': skip,
       'limit': limit,
-      'todos': todos?.map((e) => e).toList(),
     };
   }
 }

@@ -1,0 +1,13 @@
+{
+       "todos": [
+              {
+                     "id": 1,
+                     "todo": "Create a compost pile",
+                     "completed": true,
+                     "userId": 15
+              }
+       ],
+       "total": 3,
+       "skip": 0,
+       "limit": 1
+}
