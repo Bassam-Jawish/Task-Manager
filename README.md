@@ -41,13 +41,18 @@ Star ⭐ the repo to support the project.
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/VideoCapture_20230313-004159.jpg" width="220" height = "450"/>
-  <img src="screenshots/VideoCapture_20230313-004058.jpg" width="220" height = "450"/> 
+  <img src="screenshots/Screenshot_20240521_135756.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20240521_135802.jpg" width="220" height = "450"/> 
 </p>
 
 <p float="left">
-  <img src="screenshots/VideoCapture_20230313-004313.jpg" width="220" height = "450"/> 
-  <img src="screenshots/VideoCapture_20230313-004339.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20240521_135808.jpg" width="220" height = "450"/> 
+  <img src="screenshots/Screenshot_20240521_135815.jpg" width="220" height = "450"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/Screenshot_20240521_135838.jpg" width="220" height = "450"/> 
+  <img src="screenshots/Screenshot_20240521_135842.jpg" width="220" height = "450"/>
 </p>
 
 ## Tools
