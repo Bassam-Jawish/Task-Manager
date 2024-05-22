@@ -7,34 +7,43 @@ A Task Manager app, created with Flutter 💻. It focuses on my coding skills an
 This Task Manager App where you can easily organize your tasks with our intuitive interface. Prioritize your to-dos, set deadlines, and stay on top of your schedule with minimal effort.
 
 * Prerequisites
+  
 Flutter SDK: Ensure you have Flutter installed on your machine. Follow the official guide here if you haven't done so.
+
 An IDE or code editor like VSCode, Android Studio, or IntelliJ IDEA.
+
 Git: Installed and configured on your system.
+
 * Installation Steps
 Clone the Repository:
 `git clone https://github.com/your-username/task_manager_app.git`
+
 `cd task_manager_app`
+
 Install Dependencies:
+
 `flutter pub get`
+
 Run the App:
+
 `flutter run`
 
 Star ⭐ the repo to support the project.
 
 ## Features
 
-* User Authentication
+User Authentication
 
 - Login to Account: Allow users to log in using their credentials.
   
-* Task Management
+Task Management
 
 - Add Tasks: Provide functionality to add new tasks.
 - View Tasks: Enable users to view a list of their tasks.
 - Edit Tasks: Allow users to mark tasks as completed.
 - Delete Tasks: Provide an option for users to delete tasks.
 
-* Data Storage
+Data Storage
 
 - Store Tasks Locally: Ensure tasks are stored locally so that users can access their data even when offline.
 
